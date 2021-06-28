@@ -4,16 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NBR-Kernel by KangMamles
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=riva
-device.name2=rolex
-device.name3=rova
-device.name4=mi8937
 supported.versions=10-11
 supported.patchlevels=
 '; } # end properties
